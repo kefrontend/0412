@@ -12,4 +12,6 @@ __bold text__
 
 ’lorem’
 
+***
 
+---
